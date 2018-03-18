@@ -1,0 +1,2 @@
+# TwitBotCreation
+This is my new twitter bot that I am working on.  This bot is for my personal understanding of how Python works with Selenium. Please refrain from downloading it. If you have any coding tips or wish to receive the source code feel free to request it. This bot is not intended to work to its full potential as it is just for me to learn how to use the tools provided by selenium. Anyone who downloads it assumes full responsibility for their actions and cannot hold me liable. 
